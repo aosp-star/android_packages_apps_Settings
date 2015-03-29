@@ -60,4 +60,7 @@
     <string name="starlight_settings_title">Starlight\'s AOSP Settings</string>
     <string name="starlight_dashboard_summary">All my customisations are in here</string>
 
+    <!-- Screenshot shutter sound -->
+    <string name="screenshot_shutter_sound_title">Screenshot shutter sound</string>
+
 </resources>

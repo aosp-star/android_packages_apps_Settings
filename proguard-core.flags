@@ -1,0 +1,2 @@
+# StarlightSettings
+-keep class com.starlight.settings.**

@@ -240,4 +240,8 @@ public class Settings extends SettingsActivity {
      */
     public static class MediaControlsSettingsActivity extends SettingsActivity {}
 
+    /**
+     * Activity for Starlight Settings
+     */
+    public static class StarlightSettingsActivity extends SettingsActivity { /* empty */ }
 }

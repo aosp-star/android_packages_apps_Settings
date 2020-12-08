@@ -47,7 +47,7 @@ import com.android.settingslib.wifi.WifiTrackerFactory;
  * controller class when there is a wifi connection present.
  */
 public class WifiConnectionPreferenceController extends AbstractPreferenceController implements
-        WifiPickerTracker.WifiPickerTrackerCallback, LifecycleObserver {
+        WifiTracker.WifiListener, LifecycleObserver {
 
     private static final String TAG = "WifiConnPrefCtrl";
 
